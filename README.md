@@ -1,2 +1,2 @@
 # hello-world
-New to GitHub
+Hola, soy Juan Esteban recordando GitHub
